@@ -58,7 +58,7 @@ body {
 }
 .contact-info {
     color: #434455;
-    letter-spacing: ;
+    letter-spacing: 0.02em;
 }
 .contact-info:hover,
 .contact-info:focus {
