@@ -1,59 +1,92 @@
 body {
-    font-family: 'Roboto', sans-serif;
-    color: #333; 
-    margin: 0;
-    padding: 0;
-}
-header, footer {
-    background-color: #333;
-    color: #fff; 
-    padding: 10px 0;
-    text-align: center
-}
-nav ul {
-    list-style-type: none;
-    padding: 0;
-    text-align: center;
-}
-nav ul li {
-    display: inline;
-    margin: 0 10px;
-}
-h1 {
-    text-align: center;
-    font-family:'Raleway', sans-serif;
-    font-size: 2.5em;
-}
-h2 {
-    border-bottom: 2px solid #333;
-    padding-bottom: 5px;
-    font-size: 2em;
-}
-h3 { 
-    font-size: 1.5em;
-}
-p{
-    font-size: 1em;
+    font-family: "Roboto", sans-serif;
+    color:  #434455; 
+    background-color: #FFFFFF;
     line-height: 1.5;
+   }
+
+   h1 {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02 em;
+   }
+   h2 {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40 px;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    text-align: center;
+   }
+   h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+   }
+   p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+   }
+
+   #header {
+    font-family: 'Raleway', sans-serif;
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 1.17;
+	letter-spacing: 0.03em;
+	text-transform: uppercase;
+	color: #4d5ae5;
+	text-decoration: none;
 }
-button {
-    background-color: #ff6600;
-    color: #fff;
-    border: none;
-    padding: 10px 20px;
-    cursor: pointer;
-}
-button:hover {
-    background-color: #ff3300;
-}
-a:hover, button:hover {
-    color: #000;
+.header-logo-studio {
+    color: #2e2f42;
+    font-family: 'raleway', sans-serif;
+    font-weight: 700;
     text-decoration: underline;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.03em;
 }
-a, button {
-    transition: color 0.3s ease;
+.header-info {
+    font-style: normal;
 }
-img {
-    width: 100%;
-    height: auto;
+.contact-info {
+    color: #434455;
+    letter-spacing: ;
+}
+.contact-info:hover,
+.contact-info:focus {
+    color: #404bbf;
+}
+.menu-bar {
+    text-decoration: none;
+    color: #2e2f42;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+}
+.menu-bar:hover,
+.menu-bar:focus {
+    color: #404bbf;
+}
+.menu-info {
+    color: #434455;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+}
+.menu-info:hover,
+.menu-info:focus {
+	color: #404bbf;
+}
+.menu:active {
+	text-decoration: underline;
+	text-decoration-color: #404bbf;
+	color: #404bbf;
 }
