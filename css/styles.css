@@ -29,8 +29,17 @@ button{
     background-color: #4D5AE5;
 }
 a{
-    font-size:12px;
+    font-weight: 500;
+    font-size:16px;
     text-decoration: underline;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.a:hover  { 
+    color: #2e2f42;
+}
+.a:focus {
+    color: #404bbf;
 }
 ol, ul  {
     list-style-type: none;
@@ -214,4 +223,10 @@ footer{
 }
 .footer_logo_second{
     color: #F4F4FD;
+}
+.span {
+    color: #2e2f42;
+}
+.adress {
+    font-style: normal;
 }
