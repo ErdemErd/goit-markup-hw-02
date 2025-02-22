@@ -28,7 +28,7 @@ h3{
     font-size:20px;
 }
 
-.button {
+.hero-button {
     font-weight:500; 
     background-color: #4D5AE5;
     line-height: 1.5;
@@ -36,8 +36,11 @@ h3{
     color: #ffffff;
     cursor: pointer;
 }
-.button: hover, .button: focus {
+.hero-button:hover{
     background-color: #404BBF;
+}
+.hero-button:focus{
+    background-color: #404BBF;
 }
 
 a{
@@ -165,7 +168,8 @@ menu:active{
 
 /*OUR TEAM*/
 .our_team{
-    background-color: #F4F4FD;
+    color: #F4F4FD;
+    background-color: #f4f4fd;
 }
 .our_team_title{
     line-height: 1.11;
@@ -193,6 +197,9 @@ menu:active{
 .our_team li{
     background-color: #ffffff;
     text-align: center;
+}
+.team-member{
+    background-color: #f4f4fd;
 }
 
 /*OUR PORTFOLIO*/
