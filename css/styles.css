@@ -241,10 +241,9 @@ footer{
     text-transform: uppercase
     
 }
-.footer-logo-studio{
+.footer-logo-studio {
     color: #2e2f42;
 }
-
 .adress {
     font-style: normal;
 }
@@ -267,7 +266,7 @@ footer{
     letter-spacing: 0.02em;
 }
 .our-team{
-    backgroud-color:#f4f4fd;
+    background-color:#f4f4fd;
 }
 .our-team-title{
     line-height:1.11;
@@ -275,7 +274,7 @@ footer{
     color:#2e2f42; 
 }
 .team-member{
-    backgroud-color:#ffffff;
+    background-color:#ffffff;
 }
 .team-member-name{
     font-weight:500;
