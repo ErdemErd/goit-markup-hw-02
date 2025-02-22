@@ -33,13 +33,10 @@ a{
     font-size:16px;
     text-decoration: underline;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color: #434455;
 }
-.a:hover  { 
-    color: #2e2f42;
-}
-.a:focus {
-    color: #404bbf;
+a:hover ,a:focus { 
+    color:  #404bbf;
 }
 ol, ul  {
     list-style-type: none;
@@ -61,6 +58,14 @@ ol, ul  {
     color: #4d5ae5;
     
 }
+.studio {
+    color: #2e2f42;
+}
+
+.address {
+    font-style: notmal;
+}
+
 .header_logo_second{
     color: #2e2f42;
 }
@@ -221,12 +226,10 @@ footer{
     text-transform: uppercase
     
 }
-.footer_logo_second{
-    color: #F4F4FD;
-}
-.span {
+.footer_logo_studio{
     color: #2e2f42;
 }
+
 .adress {
     font-style: normal;
 }
