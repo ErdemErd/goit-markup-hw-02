@@ -75,9 +75,6 @@ ol, ul  {
     color: #4d5ae5;
     
 }
-span {
-    color: #2e2f42;
-}
 
 .add.contact-info{
     font-style: normal;
@@ -175,6 +172,9 @@ menu:active{
     text-transform: capitalize;
     color: #2e2f42;
     letter-spacing: 0.02em;
+}
+.team-title {
+letter-spacing: 0.02em;
 }
 
 .our-team-sub-title{
