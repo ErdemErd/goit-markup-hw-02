@@ -36,13 +36,12 @@ h3{
     color: #ffffff;
     cursor: pointer;
 }
-.hero-button:hover{
+.hero-button:hover {
     background-color: #404BBF;
 }
-.hero-button:focus{
-    background-color: #404BBF;
+.hero-button:focus {
+    background-color: #404BBF;
 }
-
 a{
     font-weight: 500;
     font-size:16px;
