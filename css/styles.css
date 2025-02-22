@@ -239,8 +239,8 @@ footer{
     text-decoration: none;
     color: #4d5ae5;
     text-transform: uppercase;}
-    
-.footer-logo-studio {
+
+.footer_logo_studio {
     color: #2e2f42;
 }
 .adress {
@@ -279,7 +279,4 @@ footer{
     font-weight:500;
     line-height:1.2;
     letter-spacing:0.02em; 
-}
-.span {
-    color: #2e2f42;
 }
