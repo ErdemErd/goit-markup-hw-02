@@ -72,18 +72,12 @@ ol, ul  {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     text-decoration: none;
-    color: #4d5ae5;
-    
+    color: #4d5ae5;   
 }
-
-.add.contact-info{
-    font-style: normal;
-}
-
 .header-logo-second{
     color: #2e2f42;
 }
-.studio {
+.span {
     color: #2e2f42 ;
 }
 .menu{
@@ -96,9 +90,8 @@ ol, ul  {
 .menu:hover, .menu:focus{
     color:#404bbf;
 }
-.contact-information{
+.contact-info {
     font-style: normal;
-
 }
 .contact-list{
     font-size: 16px;
