@@ -20,6 +20,7 @@ h1{
 h2{
     font-weight: bold;
     font-size: 36px;
+    text-align: center;
 }
 h3{
     font-weight: medium;
@@ -58,7 +59,7 @@ ol, ul  {
     color: #4d5ae5;
     
 }
-.studio {
+span {
     color: #2e2f42;
 }
 
