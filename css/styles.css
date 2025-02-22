@@ -239,11 +239,8 @@ letter-spacing: 0.02em;
     text-transform: uppercase;
     color: #4d5ae5;
 }
-.footer-logo-studio{
-    color: #2e2f42;   
-}
-.footer-logo-second{
-    color: #2e2f42;
+span.footer-logo-studio {,
+    color: #2e2f42 ;
 }
 .adress {
     font-style: normal;
